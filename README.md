@@ -55,7 +55,7 @@ src/
 ### Шаги
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/tvoe-username/todo-list-java.git
+   git clone https://github.com/UJINNNEU/TO-DO-list-Java
    ```
 2. Откройте проект в IntelliJ IDEA.
 3. Запустите `Main.java`.
